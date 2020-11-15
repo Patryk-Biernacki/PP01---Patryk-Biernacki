@@ -1,0 +1,7 @@
+﻿git init - inicjalizacja repozytorium
+git remote add origin adres_repozytorium - dodaje połączenie do serwera
+git pull origin master - ściąga wszystkie zmiany z serwera
+git add . - dodaje do repozytorium wszystkie pliki
+git add nazwa_pliku - dodaje do repozytorium pliki o podanej nazwie 
+git commmit -am "tytuł" - dodaje commit o podanym tytule
+git push origin master - przesyła commity na server 
